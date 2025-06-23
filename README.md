@@ -36,7 +36,7 @@ Includes a minimal frontend to submit code for review.
 ### 1️ Clone the repo
 
 ```bash
-git clone [https://github.com/theprince29/AI_Powered_Code_reviewer.git](https://github.com/theprince29/AI_Powered_Code_reviewer.git)
+git clone https://github.com/theprince29/AI_Powered_Code_reviewer.git
 cd code-reviewer-backend
 ```
 
